@@ -1,2 +1,2 @@
 # chkstong_yibbibi
-link: people.tamu.edu/~nguyen.ngv
+link: https://people.tamu.edu/~nguyen.ngv
